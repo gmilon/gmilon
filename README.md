@@ -2,7 +2,7 @@
 
 Welcome to my hub!
 
-[![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmilon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmilon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m working at [Mixfame](https://mixfame.com). Sign-up today and get an audition tomorrow.
