@@ -2,7 +2,7 @@
 
 Welcome to my hub!
 
-[![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmilon)](https://github.com/anuraghazra/github-readme-stats)
+[![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmilon&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m working at [Mixfame](https://mixfame.com). Sign-up today and get an audition tomorrow.
 - 🌱 I’m currently learning how to speed up my workflow with Emacs in Evil Mode 🔥.
